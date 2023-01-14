@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+parse = "*"
+z3-solver = "*"
 
 [dev-packages]
 
